@@ -1,0 +1,22 @@
+# Environments
+venv/
+env/
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Data and large files
+data/
+*.csv
+*.json
+
+# Mac system files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+
